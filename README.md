@@ -358,8 +358,8 @@
 
 
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nom00xx/nom00xx/output/github-snake.gif" width="100%">
+
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00d9ff,50:0a1a2b,100:050505&section=footer&animation=twinkling" width="100%"/>
-
-V
