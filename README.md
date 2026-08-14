@@ -11,6 +11,13 @@
 <img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=050505" />
 <img src="https://img.shields.io/badge/⚡_MODE-BUILDING-00ff88?style=for-the-badge&labelColor=050505" />
 <img src="https://img.shields.io/badge/🔐_MISSION-SECURITY-00ff88?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/🎓_STATUS-FINAL_YEAR_BSCS-00ff88?style=for-the-badge&labelColor=050505" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" /></a>
+<a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TRYHACKME-PROFILE-00ff88?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=050505" /></a>
+<a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HACKTHEBOX-PROFILE-00ff88?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=050505" /></a>
 
 </div>
 
@@ -41,19 +48,21 @@
 ┌──[ NOMAN@SECURITY ]─────────────────────────────────────────────┐
 │                                                                 │
 │  USER        : Noman Nadeem                                    │
-│  ROLE        : Computer Science Student                        │
-│  DOMAIN      : Cybersecurity + Networking                      │
-│  PRIMARY     : Python                                          │
-│  ENVIRONMENT : Linux / Windows                                 │
-│  NETWORK     : TCP/IP / CCNA                                   │
-│  STATUS      : ● ONLINE                                        │
+│  ROLE        : Final-Year BSCS Student                         │
+│  UNIVERSITY  : DHA Suffa University, Karachi                   │
+│  DOMAIN      : Cybersecurity + Networking + Web Security        │
+│  TARGET      : Junior Penetration Tester                        │
+│  PRIMARY     : Python / C# / Bash / PowerShell                  │
+│  ENVIRONMENT : Kali Linux / Windows                              │
+│  NETWORK     : TCP/IP / Subnetting / CCNA Fundamentals           │
+│  STATUS      : ● ONLINE                                         │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Analyzing+networks...;Building+security+tools...;Learning+offensive+security...;Understanding+defensive+security...;Improving+every+day..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Analyzing+networks...;Building+security+tools...;Learning+offensive+security...;Understanding+defensive+security...;Chasing+eJPT+%2B+OSCP...;Improving+every+day..." />
 
 </div>
 
@@ -93,6 +102,8 @@
       DEFENSE
 ```
 
+**Core focus areas:** OWASP Top 10 (XSS, SQL Injection, Broken Auth) · Vulnerability Scanning · Network Reconnaissance · Threat Analysis · Secure Coding Practices
+
 ---
 
 # `🌐 03 // NETWORK CORE`
@@ -120,7 +131,7 @@
                   └───────────────────┘
 ```
 
-`TCP/IP` • `IPv4` • `Subnetting` • `ARP` • `Ethernet` • `TCP` • `UDP` • `Routing` • `Packet Flow`
+`TCP/IP` • `IPv4` • `Subnetting` • `ARP` • `Ethernet` • `TCP` • `UDP` • `Routing` • `Packet Flow` • `Switching`
 
 </div>
 
@@ -130,45 +141,57 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cs,bash,linux,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,c,cs,bash,powershell,linux,git,github,vscode,mysql,postgres,nodejs,react&perline=8" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/PYTHON-SECURITY-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/LINUX-OPERATIONS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/GIT-VERSION_CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/KALI_LINUX-PENTEST-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/BASH-SCRIPTING-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/POWERSHELL-AUTOMATION-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 </div>
 
 ---
 
-# `🛰️ 05 // ACTIVE OPERATIONS`
+# `🎓 05 // CERTIFICATIONS & CREDENTIALS`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  [✓] HP LIFE — AI for Beginners                               │
+│  [ ] eJPT — eLearnSecurity Junior Penetration Tester (in prog)│
+│  [ ] OSCP — Offensive Security Certified Professional (goal)  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `🛰️ 06 // ACTIVE OPERATIONS`
 
 <div align="center">
 
 ### `🟢 OPERATION 01`
 
-## `TCP/IP STACK SIMULATOR`
+## `NETVERSE — VIRTUAL NETWORK LAB`
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/PYTHON-NETWORKING-00ff88?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00ff88?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/REACT-NODE-WEBSOCKETS-00ff88?style=for-the-badge&labelColor=050505" />
 
 </div>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  NETWORK SIMULATION                         ║
+║             BROWSER-BASED NETWORK SIMULATION LAB             ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  [✓] Network Topology                                        ║
-║  [✓] IPv4 Addressing                                         ║
-║  [✓] MAC Addressing                                          ║
-║  [✓] ARP Simulation                                          ║
-║  [✓] TCP / UDP                                               ║
-║  [✓] Packet Encapsulation                                    ║
-║  [✓] Packet Decapsulation                                    ║
-║  [✓] Routing & Forwarding                                    ║
-║  [✓] Host Communication                                      ║
+║  [✓] Drag-and-Drop Topology Builder                          ║
+║  [✓] Switches / Routers / Firewalls Simulation                ║
+║  [✓] TTL & Packet Animation Engine                            ║
+║  [~] Backend Scaffolding — Node.js + Express + WebSockets     ║
+║  [~] PostgreSQL Persistence Layer                             ║
+║  [~] Claude API — AI-Assisted Troubleshooting                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -177,38 +200,47 @@
 
 <div align="center">
 
-### `🔎 OPERATION 02 — NETWORK DISCOVERY`
+### `🔷 OPERATION 02 — TCP/IP STACK SIMULATOR`
+
+`TOPOLOGY` • `IPv4/MAC` • `ARP` • `ENCAPSULATION` • `ROUTING`
+
+### `🔎 OPERATION 03 — NETWORK DISCOVERY`
 
 `DEVICE DISCOVERY` • `IP/MAC` • `PORTS` • `SERVICES`
 
-### `🛡️ OPERATION 03 — VULNERABILITY SCANNER`
+### `🛡️ OPERATION 04 — VULNERABILITY SCANNER`
 
 `PORT SCANNING` • `BANNER GRABBING` • `SERVICE DETECTION`
 
-### `🌐 OPERATION 04 — WEB SECURITY`
+### `🌐 OPERATION 05 — WEB SECURITY TOOLKIT`
 
 `XSS` • `SQL INJECTION` • `SECURITY HEADERS`
 
+### `🏭 OPERATION 06 — FACTORY STOCK MANAGEMENT SYSTEM`
+
+`C# WINFORMS` • `INVENTORY LOGIC` • `DATABASE-DRIVEN`
+
 </div>
 
 ---
 
-# `🧠 06 // LEARNING PROTOCOL`
+# `🧠 07 // LEARNING PROTOCOL`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00FF88&center=true&vCenter=true&width=750&lines=%5B+01+%5D+Mastering+Networking;%5B+02+%5D+Building+Python+Security+Tools;%5B+03+%5D+Learning+Linux;%5B+04+%5D+Exploring+Web+Security;%5B+05+%5D+Developing+Pentesting+Skills;%5B+06+%5D+Moving+Toward+Security+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00FF88&center=true&vCenter=true&width=750&lines=%5B+01+%5D+Mastering+Networking;%5B+02+%5D+Building+Python+Security+Tools;%5B+03+%5D+Learning+Linux;%5B+04+%5D+Exploring+Web+Security;%5B+05+%5D+Developing+Pentesting+Skills;%5B+06+%5D+Studying+for+eJPT;%5B+07+%5D+Moving+Toward+Security+Engineering" />
 
 </div>
 
 ---
 
-# `🖥️ 07 // TERMINAL`
+# `🖥️ 08 // TERMINAL`
 
 ```bash
 ┌──[noman@security]─[~/operations]
 └─$ ls
 
+📁 netverse/
 📁 network-security/
 📁 tcp-ip-stack/
 📁 vulnerability-scanner/
@@ -227,26 +259,35 @@
 > BUILD SECURITY TOOLS
 > UNDERSTAND VULNERABILITIES
 > DEVELOP DEFENSIVE SKILLS
-> BECOME A SECURITY ENGINEER
+> BECOME A PENETRATION TESTER
+
+┌──[noman@security]─[~/operations]
+└─$ _
 ```
 
 ---
 
-# `📡 08 // GITHUB TELEMETRY`
+# `📡 09 // GITHUB TELEMETRY`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nom00xx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nom00xx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=ffffff" />
+
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nom00xx&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nom00xx&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
 ---
 
-# `🐍 09 // CONTRIBUTION MATRIX`
+# `🐍 10 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -256,7 +297,7 @@
 
 ---
 
-# `🎯 10 // MISSION CONTROL`
+# `🎯 11 // MISSION CONTROL`
 
 ```text
              ┌─────────────────────────────┐
@@ -283,6 +324,18 @@
                        │ SECURE  │
                        └─────────┘
 ```
+
+---
+
+# `📬 12 // OPEN A CHANNEL`
+
+<div align="center">
+
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" /></a>
+<a href="https://github.com/nom00xx"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" /></a>
+
+</div>
 
 ---
 
