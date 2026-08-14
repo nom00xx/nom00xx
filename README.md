@@ -355,26 +355,11 @@
 
 `[ SYSTEM ONLINE ] • [ MISSION ACTIVE ] • [ 2026 ]`
 
+
+
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00d9ff,50:0a1a2b,100:050505&section=footer&animation=twinkling" width="100%"/>
 
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nom00xx/nom00xx/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nom00xx/nom00xx/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/nom00xx/nom00xx/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
-</picture>
-
-</div>
+V
