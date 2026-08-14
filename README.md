@@ -1,146 +1,240 @@
 <div align="center">
 
-# ⚡ NOMAN NADEEM
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00ff88&height=180&section=header&text=NOMAN%20NADEEM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=58&descSize=18" />
 
-### `Cybersecurity • Networking • Python`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Network+Security+Enthusiast;Python+Developer;Learning+%7C+Building+%7C+Securing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Initializing+security+profile...;Network+Security+Enthusiast;Python+Security+Tool+Developer;TCP%2FIP+%7C+Linux+%7C+Cybersecurity;Learn.+Build.+Break.+Secure." />
 
 </div>
 
 ---
 
-## 🖥️ `whoami`
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    NOMAN // SYSTEM ONLINE                    │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER        : Noman Nadeem                                 │
+│  ROLE        : Cybersecurity Student                        │
+│  SPECIALITY  : Networking + Security                        │
+│  PRIMARY     : Python                                       │
+│  ENVIRONMENT : Linux / Windows                              │
+│  STATUS      : ONLINE                                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## `$ whoami`
 
 ```bash
-$ whoami
+┌──[noman@security]─[~]
+└─$ whoami
 
-Noman Nadeem
+Cybersecurity-focused Computer Science student
+interested in networking, security engineering,
+Linux, Python, and practical security research.
+```
 
-$ cat mission.txt
+I enjoy understanding **how systems communicate, how networks work, how vulnerabilities happen, and how they can be secured**.
+
+My approach is simple:
+
+> **Learn → Build → Test → Break → Secure**
+
+---
+
+## `$ cat /etc/focus`
+
+```text
+╔════════════════════════════════════════════╗
+║              CURRENT FOCUS                 ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║  [01] Network Security                     ║
+║  [02] TCP/IP & Networking                  ║
+║  [03] Python Security Tools                ║
+║  [04] Linux                                ║
+║  [05] Web Security                         ║
+║  [06] Penetration Testing                  ║
+║  [07] Security Engineering                 ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+---
+
+## `$ ./skills --matrix`
+
+| Domain         | Stack                                           |
+| -------------- | ----------------------------------------------- |
+| 🐍 Programming | Python • C • C# • Bash                          |
+| 🌐 Networking  | TCP/IP • IPv4 • ARP • Ethernet • Routing        |
+| 🔐 Security    | XSS • SQL Injection • Vulnerability Assessment  |
+| 🐧 Systems     | Linux • Windows • Virtual Machines              |
+| 🛠️ Tools      | Git • Packet Tracer • Kali Linux                |
+| 💻 Development | CLI Tools • Network Simulators • Security Tools |
+
+---
+
+## `$ ./projects --active`
+
+### 🌐 `My-TCP-IP-Stack`
+
+```text
+STATUS    : ACTIVE
+LANGUAGE  : Python
+TYPE      : Network Simulator
+
+> TCP/IP stack simulation
+> IPv4 addressing
+> MAC addressing
+> ARP
+> TCP / UDP
+> Packet encapsulation
+> Routing & forwarding
+> Network topology
+```
+
+### 🔎 `Network Discovery`
+
+```text
+STATUS    : BUILDING
+LANGUAGE  : Python
+TYPE      : Network Security
+
+> Device discovery
+> IP/MAC information
+> Port scanning
+> Service detection
+> Device inventory
+```
+
+### 🛡️ `Vulnerability Scanner`
+
+```text
+STATUS    : BUILDING
+LANGUAGE  : Python
+TYPE      : Security Tool
+
+> Port scanning
+> Service detection
+> Banner grabbing
+> Security reporting
+```
+
+---
+
+## `$ ./mission`
+
+```text
+       ┌──────────────┐
+       │   LEARN      │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BUILD     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │     TEST     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BREAK     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    SECURE    │
+       └──────────────┘
+```
+
+---
+
+## `$ systemctl status noman`
+
+```text
+● noman.service - Cybersecurity Development Environment
+     Loaded: loaded
+     Active: active (running)
+
+     Networking       [████████████████░░░░] 80%
+     Python           [███████████████░░░░░] 75%
+     Linux            [████████████░░░░░░░░] 60%
+     Web Security     [███████████░░░░░░░░░] 55%
+     Pentesting       [█████████░░░░░░░░░░░] 45%
+
+     Status: CONSTANTLY LEARNING
+```
+
+---
+
+## `$ git log --oneline`
+
+```text
+[+] Building networking projects
+[+] Learning security engineering
+[+] Developing Python tools
+[+] Practicing network security
+[+] Exploring penetration testing
+[+] Improving Linux skills
+```
+
+---
+
+## `$ github --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nom00xx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nom00xx&theme=dark&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+## `$ ./terminal`
+
+```bash
+┌──[noman@kali]─[~]
+└─$ ls projects/
+
+My-TCP-IP-Stack/
+Network-Discovery/
+Vulnerability-Scanner/
+Web-Security-Scanner/
+
+┌──[noman@kali]─[~]
+└─$ echo "Learn. Build. Break. Secure."
 
 Learn. Build. Break. Secure.
 ```
 
-I'm a **Computer Science student** focused on cybersecurity, networking, and practical security engineering.
-
-I enjoy building tools, experimenting with networks, learning how systems work, and turning theoretical concepts into practical projects.
-
 ---
 
-## 🔐 SECURITY
-
-* Penetration Testing
-* Network Security
-* Web Security
-* Vulnerability Assessment
-* XSS
-* SQL Injection
-* Security Testing
-
-## 🌐 NETWORKING
-
-* TCP/IP
-* IPv4 & Subnetting
-* TCP / UDP
-* ARP
-* Ethernet
-* Routing
-* Packet Analysis
-* CCNA Concepts
-
-## 💻 TECHNOLOGIES
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-## ⚔️ FEATURED PROJECTS
-
-### 🌐 TCP/IP Stack Simulator
-
-A Python-based network simulator demonstrating TCP/IP concepts, packet flow, addressing, routing, ARP, TCP/UDP, encapsulation, and network communication.
-
-### 🔎 Network Discovery Tool
-
-A cybersecurity project designed to discover devices on a network and collect information such as IP addresses, MAC addresses, open ports, and services.
-
-### 🛡️ Vulnerability Scanner
-
-Python-based security scanner for identifying open ports, detecting services, grabbing banners, and generating security reports.
-
-### 🔐 Web Security Scanner
-
-A learning-focused web security project for checking security headers and testing common web vulnerabilities in authorized environments.
-
----
-
-## 🚀 CURRENTLY LEARNING
+## `$ cat /future`
 
 ```text
-[████████████████░░░░] Networking
-[██████████████░░░░░░] Python
-[████████████░░░░░░░░] Cybersecurity
-[███████████░░░░░░░░░] Linux
-[█████████░░░░░░░░░░░] Penetration Testing
-```
-
----
-
-## 🎯 MY MISSION
-
-```text
-Learn Networking
-       ↓
-Master Linux
-       ↓
-Build Security Tools
-       ↓
-Understand Attacks
-       ↓
-Learn Defense
-       ↓
-Become a Security Engineer
-```
-
----
-
-## 📊 GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nom00xx&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nom00xx&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 CURRENT FOCUS
-
-```bash
-$ ./focus.sh
-
-> Networking
-> Cybersecurity
-> Python
-> Linux
-> Security Engineering
-> Practical Projects
+[ ] Advanced Network Security
+[ ] Penetration Testing
+[ ] SOC / Blue Team Skills
+[ ] Advanced Python Security Tools
+[ ] Network Monitoring
+[ ] Packet Analysis
+[ ] Security Engineering
 ```
 
 ---
 
 <div align="center">
 
-### `⚡ Learn • Build • Break • Secure ⚡`
+### `⚡ SECURITY IS NOT A PRODUCT — IT'S A PROCESS ⚡`
 
-![Profile Views](https://komarev.com/ghpvc/?username=nom00xx\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=nom00xx&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
+
+<br><br>
+
+`NOMAN // CYBERSECURITY OPERATIONS`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:111111,100:000000&height=120&section=footer" />
