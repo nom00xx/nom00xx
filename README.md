@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,40:06140d,70:0b2b1c,100:00ff88&text=NOMAN%20NADEEM&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,40:060d1a,70:0a1f33,100:00d9ff&text=NOMAN%20NADEEM&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+ACCESSING+NOMAN+SECURITY+TERMINAL...;%3E+SYSTEM+ONLINE+%7C+THREAT+MONITOR+ACTIVE;%3E+NETWORKING+%2B+CYBERSECURITY+%2B+PYTHON;%3E+LEARN.+BUILD.+ANALYZE.+SECURE." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+ACCESSING+NOMAN+SECURITY+TERMINAL...;%3E+SYSTEM+ONLINE+%7C+THREAT+MONITOR+ACTIVE;%3E+NETWORKING+%2B+CYBERSECURITY+%2B+PYTHON;%3E+LEARN.+BUILD.+ANALYZE.+SECURE." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/⚡_MODE-BUILDING-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/🔐_MISSION-SECURITY-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/🎓_STATUS-FINAL_YEAR_BSCS-00ff88?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/⚡_MODE-BUILDING-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/🔐_MISSION-SECURITY-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/🎓_STATUS-FINAL_YEAR_BSCS-00d9ff?style=for-the-badge&labelColor=050505" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" /></a>
-<a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TRYHACKME-PROFILE-00ff88?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=050505" /></a>
-<a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HACKTHEBOX-PROFILE-00ff88?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=050505" /></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" /></a>
+<a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TRYHACKME-PROFILE-00d9ff?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=050505" /></a>
+<a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HACKTHEBOX-PROFILE-00d9ff?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=050505" /></a>
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Analyzing+networks...;Building+security+tools...;Learning+offensive+security...;Understanding+defensive+security...;Chasing+eJPT+%2B+OSCP...;Improving+every+day..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Analyzing+networks...;Building+security+tools...;Learning+offensive+security...;Understanding+defensive+security...;Chasing+eJPT+%2B+OSCP...;Improving+every+day..." />
 
 </div>
 
@@ -72,10 +72,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/WEB_SECURITY-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/PENETRATION_TESTING-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/SECURITY_ENGINEERING-00ff88?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/WEB_SECURITY-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/SECURITY_ENGINEERING-00d9ff?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -176,8 +176,8 @@
 
 ## `NETVERSE — VIRTUAL NETWORK LAB`
 
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/REACT-NODE-WEBSOCKETS-00ff88?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00d9ff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/REACT-NODE-WEBSOCKETS-00d9ff?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -228,7 +228,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00FF88&center=true&vCenter=true&width=750&lines=%5B+01+%5D+Mastering+Networking;%5B+02+%5D+Building+Python+Security+Tools;%5B+03+%5D+Learning+Linux;%5B+04+%5D+Exploring+Web+Security;%5B+05+%5D+Developing+Pentesting+Skills;%5B+06+%5D+Studying+for+eJPT;%5B+07+%5D+Moving+Toward+Security+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00D9FF&center=true&vCenter=true&width=750&lines=%5B+01+%5D+Mastering+Networking;%5B+02+%5D+Building+Python+Security+Tools;%5B+03+%5D+Learning+Linux;%5B+04+%5D+Exploring+Web+Security;%5B+05+%5D+Developing+Pentesting+Skills;%5B+06+%5D+Studying+for+eJPT;%5B+07+%5D+Moving+Toward+Security+Engineering" />
 
 </div>
 
@@ -271,13 +271,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nom00xx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=nom00xx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nom00xx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nom00xx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9ff&text_color=ffffff" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nom00xx&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nom00xx&theme=dark&hide_border=true&background=00000000&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
 <br><br>
 
@@ -331,9 +331,9 @@
 
 <div align="center">
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" /></a>
-<a href="https://github.com/nom00xx"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-00d9ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" /></a>
+<a href="https://github.com/nom00xx"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" /></a>
 
 </div>
 
@@ -341,11 +341,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=%E2%9A%A1+LEARN.;%E2%9A%A1+BUILD.;%E2%9A%A1+ANALYZE.;%E2%9A%A1+SECURE.;%E2%9A%A1+REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+LEARN.;%E2%9A%A1+BUILD.;%E2%9A%A1+ANALYZE.;%E2%9A%A1+SECURE.;%E2%9A%A1+REPEAT." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=nom00xx&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=nom00xx&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
 <br><br>
 
@@ -357,4 +357,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00ff88,50:06140d,100:050505&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00d9ff,50:0a1a2b,100:050505&section=footer&animation=twinkling" width="100%"/>
